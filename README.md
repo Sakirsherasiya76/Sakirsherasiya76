@@ -1,17 +1,14 @@
 - 👋 Hi, I’m @Sakirsherasiya76
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Frontend Developer
 
-<h3 align="center">A passionate Java developer from Gujarat, India</h3>
+<h3 align="center">A passionate Frontend developer from Gujarat, India</h3>
 <img align="rigth" alt="Coding" width="200" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java Development
+- 🌱 I’m currently learning Backend Development
 - 💻 Things That i know :-
-     C | C++ | JAVA | HTML | CSS | JAVASCRIPT | Spring | MongoDB
+     C | C++ | PHP | HTML | CSS | JAVASCRIPT | BootStrap | React
 - 🤔 I’m looking for help with velocityX documentation.
 - 💬 Ask me about any tech realated stuff.
 - 
